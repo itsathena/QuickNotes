@@ -9,8 +9,7 @@
   },
   "action": {
     "default_popup": "popup.html",
-      "default_icon": {
-    }
+      "default_icon":  "icon1.png"
   },
   "commands": {
     "save_selected_text": {
